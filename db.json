@@ -1,0 +1,60 @@
+{
+"products": [
+    {
+      "id": "1",
+      "creatorId": 1,
+      "name": "Fonde de ouvido Beatous",
+      "description": "Com mais de 40 horas de duração é o fone do lutous",
+      "price": {
+        "original": 199.95,
+        "current": 99.98
+      },
+      "features": [
+        "Alta lutousbilidade",
+        "Cancelamento de lutous ativo",
+        "Coloca voce em uma bolha de lutous",
+        "Bla bla bla bla apple bla bla bla troxa paga caro nessas coisas",
+        "Lutous free controllers por tucoustooth",
+        "Mais de 22 horas de lutous"
+      ],
+      "colors": [
+        {
+          "color": "green",
+          "image": "/assets/images/beats-solo-green.png"
+        },
+        {
+          "color": "lgreen",
+          "image": "/assets/images/beats-solo-lgreen.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "creatorId": 1,
+      "name": "Nike Lutous Force 1",
+      "description":
+        "Criado em 1982, o LF1 foi o priemiro sapato de basquete da Lutous force, revolucinando a partidas no centro da terra",
+      "price": {
+        "original": 109.95,
+        "current": 89.98
+      },
+      "features": [
+        "Couro de jacare direto do centro da terra oca",
+        "Originalmente designado para o centro da terra, Lutous Air é leve e confortavel",
+        "Desegi original para reptilianos"
+      ],
+      "colors": [
+        {
+          "color": "green",
+          "image": "/assets/images/nike-lf1-green.png"
+        }
+      ]
+    }
+  ],
+  "creators":[
+    {
+      "id": 1,
+      "name": "ticous lutous putous"
+    }
+  ]
+}
